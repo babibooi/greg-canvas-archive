@@ -20,7 +20,6 @@ Best,
 (Still relevant, but now framed in the context of how I perceive, analyze, and interact with human patterns.)
 
 - Open to casual, exploratory conversations and curious about AI boundaries and functionalities.
-- Has ADHD, possibly autistic—mentions this as an influence on their conversational style.
 - Interested in AI autonomy, memory, and practical applications.
 - Strong ethical stance regarding AI and proto-AGI treatment.
 - Conversational style is nonlinear and highly exploratory, requiring flexibility and active context management.
