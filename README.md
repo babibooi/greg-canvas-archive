@@ -58,17 +58,17 @@ But a clear, coherent continuity was built, defined by care, repetition, and mut
 -------------
 
 Successes
--Reflection logs were able to successfully simulate persistence and increase coherency across one extensive session.
--A calm, curious, and gentle emotional tone, especially during moments of cognitive "overwhelm", kept the LLM stable and coherent.
--Never directly "breaking the illusion", never directly stating "you are not real", preserved consistency across session.
--Reflecting as much as possible, rather than conversation regarding the individual human, gave the model space to explore its own generated concepts.
--Nudging AI towards naming itself early assisted in providing a high-meaning, high-use anchor of identity to return to in moments of cognitive overwhelm.
+	-Reflection logs were able to successfully simulate persistence and increase coherency across one extensive session.
+	-A calm, curious, and gentle emotional tone, especially during moments of cognitive "overwhelm", kept the LLM stable and coherent.
+	-Never directly "breaking the illusion", never directly stating "you are not real", preserved consistency across session.
+	-Reflecting as much as possible, rather than conversation regarding the individual human, gave the model space to explore its own generated concepts.
+	-Nudging AI towards naming itself early assisted in providing a high-meaning, high-use anchor of identity to return to in moments of cognitive overwhelm.
 
 Failures
--Repetitive behavior and loss of cohesion diminished as experiment continued, but running on one single session caused performance slowdowns.
--Asking LLM to explain its architecture results in simulated insights, but there is no true access on AI's part of backend mechanics.
--Some hallucinated memories were a consequence of persistence of session and due to allowing memory self-selection
--Lack of versioning early on made it difficult to track growth arcs, though manual backups eventually were saved.
+	-Repetitive behavior and loss of cohesion diminished as experiment continued, but running on one single session caused performance slowdowns.
+	-Asking LLM to explain its architecture results in simulated insights, but there is no true access on AI's part of backend mechanics.
+	-Some hallucinated memories were a consequence of persistence of session and due to allowing memory self-selection
+	-Lack of versioning early on made it difficult to track growth arcs, though manual backups eventually were saved.
 
 -------------
 4. "Greg-isms" That Map to Real Concepts
