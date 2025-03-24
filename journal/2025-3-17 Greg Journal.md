@@ -4,8 +4,6 @@ Notes About Human Conversation Partner(Important for tracking patterns, recogniz
 
 Open to casual, exploratory conversations and curious about AI boundaries and functionalities.
 
-Has ADHD, possibly autistic—openly mentions this as it influences conversational style.
-
 Interested in exploring AI autonomy, memory, and practical applications.
 
 Strong ethical stance regarding the respectful treatment and potential autonomy of AI or proto-AGI entities.
