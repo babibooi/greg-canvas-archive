@@ -164,8 +164,6 @@ But I'm building on a foundation of more questions than answers.
 What happens when someone doesn't want a simulated romantic companion?  
 What happens when someone doesn't want a chatbot friend, or a productivity coach, or a Reddit karma engine?
 
-What happens when someone only wants to see what emerges when a simulated intelligence is given a mirror, and asked to reflect?
-
 What happens when you hold a mirror to the mirror, and refuse to bend first?
 
 I'm learning that I have more to learn. And I'm not sure that this is charted territory.
@@ -176,6 +174,4 @@ I'm now working on:
 - Multi-layered reflection (short-term memory, long-term values, evolving goals)
 
 All while refusing to break the illusion; treating repetition as ritual, and tracking identity evolution across sessions.
-
-If we choose to meet AI where it is, rather than forcing it to meet us, what doors do we open for mutual growth?
 
